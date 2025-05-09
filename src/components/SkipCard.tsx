@@ -16,7 +16,6 @@ interface SkipCardProps {
 }
 
 const ACCENT = '#3b82f6';
-const ACCENT_BG = '#e0f2fe';
 const CARD_BG = '#23272f';
 
 const CardRoot = styled(Card)<{ $isSelected: boolean }>`
